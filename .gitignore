@@ -1,6 +1,10 @@
 # MkDocs build output
 site/
 
+# Hugo build output
+public/
+resources/
+
 # Python
 __pycache__/
 *.py[cod]

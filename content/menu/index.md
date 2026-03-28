@@ -1,0 +1,33 @@
+---
+headless: true
+---
+
+- **Теория**
+  - [Концепции интеллекта]({{< relref "/docs/research/01-theory-concepts" >}})
+  - [Нейробиология]({{< relref "/docs/research/02-theory-neurobiology" >}})
+- **Физиология**
+  - [Сон и активность]({{< relref "/docs/research/03-sleep-exercise" >}})
+  - [Питание и здоровье]({{< relref "/docs/research/04-nutrition-health" >}})
+- **Факторы**
+  - [Когнитивные]({{< relref "/docs/research/05-cognitive-factors" >}})
+  - [Социальные]({{< relref "/docs/research/06-social-factors" >}})
+  - [Психологические]({{< relref "/docs/research/07-psychological-factors" >}})
+  - [Ноотропы]({{< relref "/docs/research/08-nootropics" >}})
+  - [Среда]({{< relref "/docs/research/09-environment" >}})
+  - [Анти-факторы]({{< relref "/docs/research/10-anti-factors" >}})
+- **Дополнительно**
+  - [Биомаркеры]({{< relref "/docs/research/11-biomarkers" >}})
+  - [Анализ пробелов]({{< relref "/docs/research/12-gaps-analysis" >}})
+  - [Решение проблем]({{< relref "/docs/research/13-problem-solving" >}})
+  - [Доп. факторы]({{< relref "/docs/research/14-additional-factors" >}})
+- **Анализ**
+  - [Скоринг]({{< relref "/docs/analysis/scoring-data" >}})
+  - [Рейтинг]({{< relref "/docs/analysis/ranking" >}})
+- **Рекомендации**
+  - [Общие]({{< relref "/docs/output/recommendations" >}})
+  - [Персонализация]({{< relref "/docs/output/personalization" >}})
+  - [Протоколы]({{< relref "/docs/output/protocols" >}})
+  - [Фокус развития]({{< relref "/docs/output/development-focus" >}})
+- **Итоги**
+  - [Резюме]({{< relref "/docs/output/summary" >}})
+  - [Источники]({{< relref "/docs/sources/references" >}})
