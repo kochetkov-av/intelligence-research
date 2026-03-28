@@ -3,21 +3,47 @@ title: "Факторы развития интеллекта"
 layout: hextra-home
 ---
 
-Комплексный научный обзор факторов, влияющих на когнитивные способности взрослых (25-65 лет).
+<div class="hx-mt-6 hx-mb-6">
+{{< hextra/hero-headline >}}
+  Факторы развития интеллекта
+{{< /hextra/hero-headline >}}
+</div>
 
-## Быстрый старт
+<div class="hx-mb-12">
+{{< hextra/hero-subtitle >}}
+  Комплексный научный обзор факторов,&nbsp;<br class="sm:hx-block hx-hidden" />влияющих на когнитивные способности взрослых (25-65 лет)
+{{< /hextra/hero-subtitle >}}
+</div>
 
-- [Резюме]({{< relref "/docs/output/summary" >}}) — ключевые находки
-- [Рейтинг факторов]({{< relref "/docs/analysis/ranking" >}}) — что работает лучше всего
-- [Протоколы]({{< relref "/docs/output/protocols" >}}) — готовые планы действий
+<div class="hx-mb-6">
+{{< hextra/hero-button text="Читать →" link="/docs/" >}}
+</div>
 
-## О проекте
+<div style="height: 80px;"></div>
 
-Каждый фактор оценён по шести параметрам:
-
-- **Сила эффекта** — насколько сильно влияет
-- **Доказательная база** — качество исследований
-- **Модифицируемость** — можно ли изменить самому
-- **Доступность** — легкость внедрения
-- **Скорость эффекта** — как быстро виден результат
-- **Устойчивость** — сохранение эффекта
+{{< hextra/feature-grid >}}
+  {{< hextra/feature-card
+    title="Анализ"
+    subtitle="Оценка и ранжирование факторов по 6 параметрам: сила эффекта, доказательность, модифицируемость"
+    link="/docs/analysis/"
+    style="background: radial-gradient(ellipse at 50% 80%,rgba(59,130,246,0.15),hsla(0,0%,100%,0));"
+  >}}
+  {{< hextra/feature-card
+    title="Выводы"
+    subtitle="Практические рекомендации, протоколы и готовые планы действий"
+    link="/docs/output/"
+    style="background: radial-gradient(ellipse at 50% 80%,rgba(16,185,129,0.15),hsla(0,0%,100%,0));"
+  >}}
+  {{< hextra/feature-card
+    title="Исследования"
+    subtitle="Научные обзоры по каждому фактору: сон, питание, физическая активность, ноотропы"
+    link="/docs/research/"
+    style="background: radial-gradient(ellipse at 50% 80%,rgba(236,72,153,0.15),hsla(0,0%,100%,0));"
+  >}}
+  {{< hextra/feature-card
+    title="Источники"
+    subtitle="Библиография: мета-анализы, RCT, систематические обзоры"
+    link="/docs/sources/"
+    style="background: radial-gradient(ellipse at 50% 80%,rgba(251,146,60,0.15),hsla(0,0%,100%,0));"
+  >}}
+{{< /hextra/feature-grid >}}

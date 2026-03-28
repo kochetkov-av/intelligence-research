@@ -1,6 +1,7 @@
 ---
 title: "Критический анализ"
 weight: 1
+draft: true
 ---
 
 
